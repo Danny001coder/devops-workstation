@@ -4,5 +4,6 @@
 - Terraform
 - VS Code
 
-  ##Author
-  Danny001coder-Skill-sch
+  **Author**
+  
+  Danny001coder-Skill-sch cloud lab
